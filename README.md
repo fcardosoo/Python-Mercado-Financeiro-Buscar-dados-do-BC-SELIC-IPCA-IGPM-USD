@@ -5,8 +5,8 @@
 <p>Estes dados podem ser importantes para redigir relatórios e automatizar o envio por e-mail</p>
 
 <p>Os dados que iremos pegar são:</p>
-* Taxa de juros;
-* Inflação; e
-* Câmbio. 
+* Taxa de juros;<br>
+* Inflação; e<br>
+* Câmbio.<br>
 
-<p>Além disso iremos plotar gráficos</p>
+<p>Além disso iremos plotar gráficos.</p>
